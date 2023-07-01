@@ -1,4 +1,8 @@
-*********************WORK EXPERIENCE*********************************************************************
+I am currently looking for full time roles in Systems/Computer Architecture including but not limited to Performance modeling and optimisation.
+I am cuurently working on a project heavily involving Gem5, cache coherence protocols and NUMA systems.
+
+
+**WORK EXPERIENCE**
 
 Software Engineer August 2020 - August 2021
 SDE, Cisco
@@ -33,7 +37,7 @@ the balloons in a 3D rendering.
 · Integrated animation of balloon rising along path in 1st person (inside the balloon) and 3rd person
 (external view) along with a virtual reality viewing option.
 
-************************PROJECTS**************************************************************************
+**PROJECTS**
 
 Speeding up Concurrent Algorithms by exposing multicore architecture to concurrent
 programmers August 2022 - current
@@ -57,7 +61,7 @@ Data Structures and Algorithms 			Machine Learning
 Design and Analysis of Algorithms 		Distributed Systems
 Compiler Construction and Analysis 		Computer Security
 
-**********************EDUCATION***************************************************************************
+**EDUCATION**
 
 Birla Institute of Technology and Science (BITS), Pilani, India August 2016 - May 2020
 B.E. (Computer Science) Overall GPA: 8.51/10
